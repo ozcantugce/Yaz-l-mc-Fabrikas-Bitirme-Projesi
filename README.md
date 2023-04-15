@@ -1,1 +1,1 @@
-# Yaz-l-mc-Fabrikas-Bitirme-Projesi
+# Yazilimci Fabrikasi Bitirme Projesi
